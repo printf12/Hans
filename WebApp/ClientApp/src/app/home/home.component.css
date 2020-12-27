@@ -1,0 +1,45 @@
+header {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid lightgray;
+  overflow: hidden;
+  height: 120px;
+}
+
+#profile-name {
+  text-align: center;
+  margin-top: 30px;
+}
+
+  #profile-name span {
+    font-size: x-large;
+    font-weight: bold;
+  }
+
+div#centerDiv {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+ul.centerUL {
+  margin: 2px auto;
+  line-height: 1.4;
+  padding-left: 0;
+}
+
+.centerUL li {
+  display: inline;
+  text-align: center;
+  font-size: smaller;
+}
+
+#profile-img {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+
+#profile-img img {
+  border-radius: 140px;
+}
